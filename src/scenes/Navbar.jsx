@@ -24,7 +24,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
 
   return (
     <nav className={`${navbarBackground} z-40 w-full fixed top-0 h-[4rem] py-6`}>
-      <div className="flex items-center justify-center mx-auto w-5/6">
+      <div className="flex items-left justify-end mx-auto w-5/6">
         {/* <h4 className="font-playfair text-2xl font-bold">Portfol.io</h4> */}
 
         {/* DESKTOP NAV */}
