@@ -89,6 +89,7 @@ function App() {
           amount="all"
           onViewportEnter={() => setSelectedPage("testimonials")}
         >
+        
           <Testimonials />
         </motion.div>
       </div> */}
