@@ -14,8 +14,6 @@ import { motion } from "framer-motion";
 
 
 
-
-
 function App() {
   const [selectedPage, setSelectedPage] = useState("home");
   const [isTopOfPage, setIsTopOfPage] = useState(true);
